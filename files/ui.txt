@@ -1,0 +1,20 @@
+{
+    "isSelected": "true",
+    "dragX": "128.0",
+    "dragY": "72.0",
+    "dragging": "true",
+    "elements": [
+        {
+            "com.plixo.ui.elements.other.UIButton": {
+                "height": "30.0",
+                "width": "100.0",
+                "x": "0.0",
+                "y": "0.0"
+            }
+        }
+    ],
+    "height": "30.0",
+    "width": "100.0",
+    "x": "61.0",
+    "y": "45.0"
+}
